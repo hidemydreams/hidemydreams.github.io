@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://portfolio/./src/index.js"],"names":["console","log"],"mappings":"yBACAA,QAAQC,IAAI,S","file":"main.js","sourcesContent":["import './main.scss';\nconsole.log('hello');\n"],"sourceRoot":""}
